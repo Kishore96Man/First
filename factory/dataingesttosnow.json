@@ -1,0 +1,15 @@
+{
+	"name": "dataingesttosnow",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c224007-d4dd-4185-8906-af6f1af50923",
+		"tenantId": "d9ff72ea-e56b-4707-bbcf-af979fc15be3"
+	}
+}
